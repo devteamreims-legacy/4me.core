@@ -10,10 +10,10 @@ Here's a short description of all :
 * 4me.core.ui : Basic interface framework, modular, built with AngularJS and Angular Material
 * 4me.core.mq : AMQP message queue, contains configuration files for our broker
 * 4me.core.mapping : NodeJS microservice responsible of gathering and maintaining a CWP <-> open sector map, REST API + 4me.core.mq events
-* 4me.core.mapping.ui-plugin : Supervisor UI plugin to control our control room map
+* 4me.core.mapping.ui-plugin : Supervisor UI plugin to manage our control room map
 * 4me.core.docs : Documentation, build instructions, maintenance.
 
-## Dependancies
+## Dependencies
 
 Multiple dependancies are required to build and run this set of tools :
 * NodeJS
