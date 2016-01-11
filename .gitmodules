@@ -1,3 +1,6 @@
 [submodule "4me.core.ui"]
 	path = 4me.core.ui
 	url = git@github.com:devteamreims/4me.core.ui.git
+[submodule "4me.core.mapping"]
+	path = 4me.core.mapping
+	url = git@github.com:devteamreims/4me.core.mapping.git
